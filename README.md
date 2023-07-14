@@ -1,7 +1,7 @@
 # Dart Flutter Chowk Task - 1
 ## Details:
 
-**Name:** Laksh Samdariya
+**Name:** Aishwary Gathe
 
 **College:** RCOEM (Shri Ramdeobaba College of Engineering and Management)
 
