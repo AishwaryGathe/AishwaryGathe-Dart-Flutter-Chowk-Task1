@@ -15,4 +15,4 @@
 
 **Figma Link:** (Figma UI Link)[https://www.figma.com/file/iR4Lem02wysqLS49r2IJc0/Dart-Flutter-Chowk-Task-AishwaryGathe?type=design&node-id=0%3A1&mode=design&t=ukaQ9LoHWibNwBMp-1]
 
-**GitHub Repo Link:** (Project Repo)[]
+**GitHub Repo Link:** (Project Repo)[https://github.com/AishwaryGathe/AishwaryGathe-Dart-Flutter-Chowk-Task1]
