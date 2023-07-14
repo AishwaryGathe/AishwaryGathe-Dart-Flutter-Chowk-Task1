@@ -1,16 +1,18 @@
-# e_commerce
+# Dart Flutter Chowk Task - 1
+## Details:
 
-A new Flutter project.
+**Name:** Laksh Samdariya
 
-## Getting Started
+**College:** RCOEM (Shri Ramdeobaba College of Engineering and Management)
 
-This project is a starting point for a Flutter application.
+**Year:** 2nd (4th sem)
 
-A few resources to get you started if this is your first Flutter project:
+## Project Details:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Description:** I have developed my own e-commerce landing page. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Tech Stack:** Flutter
+
+**Figma Link:** (Figma UI Link)[https://www.figma.com/file/iR4Lem02wysqLS49r2IJc0/Dart-Flutter-Chowk-Task-AishwaryGathe?type=design&node-id=0%3A1&mode=design&t=ukaQ9LoHWibNwBMp-1]
+
+**GitHub Repo Link:** (Project Repo)[]
